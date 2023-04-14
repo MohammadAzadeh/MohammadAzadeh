@@ -2,7 +2,7 @@
 - 👀 interested in Python and Machine learning
 - 🌱 currently learning AI
 - 💞️ looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me   Email : mohammad.azadeh@ut.ac.ir
 
 <!---
 MohammadAzadeh/MohammadAzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
