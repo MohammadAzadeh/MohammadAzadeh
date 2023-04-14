@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mohammad Azadeh
+- 👨‍🎓 Petroleum Engineering @ University of Tehran
 - 👀 interested in Python and Machine learning
 - 🌱 currently learning AI
 - 💞️ looking to collaborate on ...
