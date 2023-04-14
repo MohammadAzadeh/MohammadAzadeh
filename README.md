@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Azadeh
-- 👀 I’m interested in Python and Machine learning
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 interested in Python and Machine learning
+- 🌱 currently learning AI
+- 💞️ looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
