@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Mohammad Azadeh
 - 👨‍🎓 Petroleum Engineering @ University of Tehran
 - 👀 interested in Python and Machine learning
-- 🌱 currently learning AI
-- 💞️ looking to collaborate on ...
 - 📫 How to reach me   Email : mohammad.azadeh@ut.ac.ir
 
 <!---
